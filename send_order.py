@@ -8,8 +8,7 @@ API_KEY=os.getenv("BFX_KEY")
 API_SECRET=os.getenv("BFX_SECRET")
 
 bfx = Client(
-  API_KEY='W7eqtTL48tgCt94bRfHgSCwrHF2Lhl1fIO2Irf4qmJC',
-  API_SECRET='PynDBdtGAH3D5RX0I5cQwC5kjfYUXYZux5fRl0Wpb2S',
+  API_KEY='
   logLevel='DEBUG'
 )
 
